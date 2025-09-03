@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Job Application Form</title>
+  <title>Job Application Forms</title>
 </head>
 <body>
 
@@ -33,4 +33,5 @@
 
 </body>
 </html>
+
 
